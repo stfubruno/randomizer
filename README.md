@@ -1,6 +1,6 @@
-**Team Randomizer**
+# Team randomizer
 
-Este projeto em **C++** é uma ferramenta simples para randomizar equipes em jogos de FPS (First Person Shooter). Desenvolvido no Visual Studio, ele permite que jogadores sejam atribuídos aleatoriamente a equipes. O projeto suporta randomização de equipes para 2 a 5 times e também determina qual equipe será o atacante e qual será o defensor.
+Este projeto em **C++** é uma ferramenta simples para randomizar equipes em jogos de FPS (First Person Shooter). Desenvolvido no Visual Studio e CLion, ele permite que jogadores sejam atribuídos aleatoriamente a equipes. O projeto suporta randomização de equipes para 2 a 5 times e também determina qual equipe será o atacante e qual será o defensor.
 
 **Utilização**
 
