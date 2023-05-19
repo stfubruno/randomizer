@@ -22,8 +22,8 @@ Este projeto está disponibilizado para uso público para fins de estudo e apren
 
 ## Créditos
 
-*Bruno
-*Edson
+* Bruno
+* Edson
 
 ## Atualizações Contínuas e Aperfeiçoamentos Futuros
 
